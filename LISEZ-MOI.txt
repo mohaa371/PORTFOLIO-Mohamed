@@ -1,0 +1,5 @@
+PORTFOLIO BTS SIO — THÈME CLAIR
+
+Ouvre index.html dans Chrome ou Edge. Le CSS est intégré au fichier HTML : aucun fichier CSS séparé n’est nécessaire.
+
+Remplace les textes d’exemple par tes informations réelles et ajoute tes vrais projets. Le chargement de la police Google Fonts nécessite une connexion Internet ; le site reste lisible sans cette police.
